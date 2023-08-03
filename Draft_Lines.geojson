@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Draft_Lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 4.849740680538878, 52.33872713386085 ], [ 4.849900071348053, 52.337934754579535 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 4.85105927723296, 52.338780253751779 ], [ 4.851189687895012, 52.338040996201215 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 4.8521315426765, 52.338908626558094 ], [ 4.852211238081087, 52.338102970362684 ] ] } }
+]
+}
