@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cross_sections",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "AreaID": "A10-KNM-10b", "Cross_Section": "27" }, "geometry": { "type": "LineString", "coordinates": [ [ 118460.495, 483433.20400000003 ], [ 118466.11500000001, 483363.42999999999 ] ] } }
+]
+}
