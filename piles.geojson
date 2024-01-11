@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "piles",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "PileID": "A", "Cross Section": "1", "AreaID": "A10-KNM-10b" }, "geometry": { "type": "Point", "coordinates": [ 4.84892013685817, 52.338342757858676 ] } },
