@@ -199,21 +199,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Cross Section": 49,
-                "AreaID": "A10-KNM-10a",
-                "PileLetter": "B"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.85113122691968,
-                    52.33860346119636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Cross Section": 37,
                 "AreaID": "A10-KNM-10a",
                 "PileLetter": "A"
@@ -535,21 +520,6 @@
                 "coordinates": [
                     4.851244711895453,
                     52.3386359652171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Cross Section": 29,
-                "AreaID": "A10-KNM-10a",
-                "PileLetter": "B"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.851918267656798,
-                    52.338659456995245
                 ]
             }
         },
